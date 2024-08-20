@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application/body.dart';
+import 'package:flutter_application/components/body.dart';
 import 'package:flutter_application/main.dart';
 
 class InitialScreen extends StatefulWidget {

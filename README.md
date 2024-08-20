@@ -1,4 +1,6 @@
-# flutter_application
+# App de Tarefas
+
+<img src="./assets/images/app.png">
 
 A new Flutter project.
 
