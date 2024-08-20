@@ -1,7 +1,7 @@
 # App de Tarefas
-
-<img src="./assets/images/app.png">
-
+<p align="center">
+  <img src="./assets/images/app.png" height=500>
+</p>
 A new Flutter project.
 
 ## Getting Started
